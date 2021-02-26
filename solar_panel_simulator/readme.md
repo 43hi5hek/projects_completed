@@ -6,6 +6,7 @@ This was a take-home coding test for a company and I thought it was a cool exerc
 
 # Result
 
+Run mian.py
 The graphs represent the evolution of temperatures of the fluid in various stages of the circuit. You have an option to simulate sunrise/sunset as well.
 
 
